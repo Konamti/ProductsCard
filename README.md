@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-I learn to apply grid in media query. I also learnt how to better name my html tags with appropriate class names and IDs.
+I learn to apply grid in media query. I also learnt how to better name my html tags with appropriate class names and IDs of my elements.
 
 ```css
 .product-card {
