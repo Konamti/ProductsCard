@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Konamti/ProductsCard.git)
-- Live Site URL: [Add live site URL here](https://konamti.github.io/ProductsCard/)
+- Solution URL: [https://github.com/Konamti/ProductsCard.git]
+- Live Site URL: [https://konamti.github.io/ProductsCard/]
 
 ## My process
 
